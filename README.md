@@ -3,8 +3,6 @@ Arcade Dream
 Alfred Shaker
 Design Document
 
-Title of the Game (Project):  ????? Arcade Dream
-
 Overall premiss: This game takes place in a small town where a new arcade just opened up. As one of select lucky winners, you get to test out games at this arcade before it opens up. The owner seems nice enough, but you’re more focused on the games at this point. Maybe just look over your shoulder every once in a while…
 
 
@@ -20,11 +18,6 @@ Lobby from Guilty Gear Xrd Rev 2
 Teams:
 Overall structure: 
 Teams will build the overall arcade throughout the semester and each iteration make one arcade game. They will create a design document at the start of each iteration for the game they will make during it. While at the same time progressing the story of the arcade, increasing the size and adding elements to the arcade room. Maybe unlock cosmetics for winning the games. So each iteration they can come up with new things for the arcade itself while also making a new game inside it. This will allow them to create different types of games and learn to iterate and move quickly. 
-
-Will need: arcade/overworld design, character creation, cinematics, character interaction, local/online multiplayer (up to 4 players), overworld traversal. 
-
-15 total weeks of class time
-12 students. Roles: designers (mechanics and aesthetics/UI), programmers (core mechanics), level designer, tester, cinematic and sound (music, sound effects, presentation, intro/outro etc), networking. 2 students for each role, rotating each iteration. The teams will all be working on one game per iteration while also completing tasks for the overall arcade.
 
 https://www.mindmeister.com/1313083613
 
@@ -53,5 +46,3 @@ Global variables: LikeThis
 Private variables: likeThis_m
 Filenames: LikeThis.cs
 
-Code skeleton
-Commenting code
