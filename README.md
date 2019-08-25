@@ -6,6 +6,7 @@ Project Manager: Alfred Shaker
 Design Document
 
 
+UNITY VERSION: 2018.4.7f1(LTS)
 
 Overall premiss: This game takes place in a small town where a new arcade just opened up. As one of select lucky winners, you get to test out games at this arcade before it opens up. The owner seems nice enough, but you’re more focused on the games at this point. Maybe just look over your shoulder every once in a while…
 
