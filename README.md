@@ -3,21 +3,7 @@ Arcade Dream
 
 Project Manager: Alfred Shaker
 
-Design Document
-
-
-
-Overall premiss: This game takes place in a small town where a new arcade just opened up. As one of select lucky winners, you get to test out games at this arcade before it opens up. The owner seems nice enough, but you’re more focused on the games at this point. Maybe just look over your shoulder every once in a while…
-
-
-The Main Loop: Mainly this game will revolve around the player walking around an arcade using a created avatar (customizable) and playing games at the arcade. The player walks up to an arcade game and either plays it single player or opts in for multiplayer and waits for others to walk up and join them. The game transitions to whatever game the player selects and runs a new session for multiplayer if needed. Succeeding at the games will earn you rewards such as cosmetic things for your avatar or maybe something to expand on the overarching story with the arcade itself. 
-
-Examples:
-
-Lobby from Dragon Ball Fighterz
-
-Lobby from Guilty Gear Xrd Rev 2
-
+Design Document: https://github.com/ksu-cs-robotics/ArcadeDream/blob/master/doc/DesignDocument.md
 
 Teams:
 Overall structure: 
