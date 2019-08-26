@@ -5,6 +5,10 @@ Project Manager: Alfred Shaker
 
 Design Document: https://github.com/ksu-cs-robotics/ArcadeDream/blob/master/doc/DesignDocument.md
 
+Rules of Naming conventions: https://github.com/ksu-cs-robotics/ArcadeDream/blob/master/doc/rules_nameing_convensions.md
+
+Rules of Version Control: https://github.com/ksu-cs-robotics/ArcadeDream/blob/master/doc/rules_version_control.md
+
 Teams:
 Overall structure: 
 Teams will build the overall arcade throughout the semester and each iteration make one arcade game. They will create a design document at the start of each iteration for the game they will make during it. While at the same time progressing the story of the arcade, increasing the size and adding elements to the arcade room. Maybe unlock cosmetics for winning the games. So each iteration they can come up with new things for the arcade itself while also making a new game inside it. This will allow them to create different types of games and learn to iterate and move quickly. 
