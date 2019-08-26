@@ -13,7 +13,7 @@ Teams:
 Overall structure: 
 Teams will build the overall arcade throughout the semester and each iteration make one arcade game. They will create a design document at the start of each iteration for the game they will make during it. While at the same time progressing the story of the arcade, increasing the size and adding elements to the arcade room. Maybe unlock cosmetics for winning the games. So each iteration they can come up with new things for the arcade itself while also making a new game inside it. This will allow them to create different types of games and learn to iterate and move quickly. 
 
-https://www.mindmeister.com/1316263107
+https://mm.tt/1316263107?t=4ZLPKRvYiN
 
 
 Team 1:

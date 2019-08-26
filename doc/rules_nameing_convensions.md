@@ -15,8 +15,11 @@ Method Names: LikeThis
 Filenames: LikeThis.cs
 
 Folder names: Like_This
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 Code Skeleton:
 
 //date
